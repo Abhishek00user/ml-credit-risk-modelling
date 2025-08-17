@@ -7,7 +7,6 @@ This project is a custom-built credit risk scoring system that predicts the like
 ## 🚀 Demo
 
 🎯 **Try the live app:** [Streamlit Link](#) *(https://ml-credit-risk-modelling-00.streamlit.app/)*  
-📄 **PDF Pitch:** [Streamlit Demo Handout](./Credit_Risk_Streamlit_Demo_Pitch.pdf)
 
 ---
 
@@ -52,7 +51,7 @@ In lending, it's crucial to identify the **creditworthiness** of applicants befo
 
 ## 🖥️ App Preview
 
-![App Screenshot](./screenshot.png) <!-- Add your screenshot image -->
+![App Screenshot](screenshot.png) <!-- Add your screenshot image -->
 
 ---
 
